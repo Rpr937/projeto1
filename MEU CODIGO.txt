@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 RUAN Patrick Ricardi
+=======
+RUAN
+
+nova linha
+>>>>>>> 3eb837b2a55c09fa518841d20fe85214c4ed2bb9
